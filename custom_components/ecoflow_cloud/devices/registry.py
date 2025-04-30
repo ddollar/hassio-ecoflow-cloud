@@ -27,6 +27,7 @@ from .public import (
     powerstream as public_powerstream,
     delta_pro_3 as public_delta_pro_3,
     powerkit as public_powerkit,
+    wave2 as public_wave2,
 )
 from ..devices import BaseDevice, DiagnosticDevice
 
